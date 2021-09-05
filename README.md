@@ -1,20 +1,20 @@
 ### Hi there, I'm Jasmeet Singh 👋
 
 </a>
-<a href="https://www.linkedin.com/in/jasmeet-singh-0856aa194">
-  <img align="left" alt="Jasmeet Singh | LinkedIn" width="21px" src="https://raw.githubusercontent.com/jasmeetsingh24/jasmeetsingh24/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/jasmeet-singh-0856aa194" target="blank">
+  <img align="left" alt="Jasmeet Singh | LinkedIn" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100008863187804">
+<a href="https://www.facebook.com/profile.php?id=100008863187804" target="blank">
   <img align="left" alt="Jasmeet Singh | Facebook" width="21px" src="https://raw.githubusercontent.com/jasmeetsingh24/jasmeetsingh24/master/assets/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/punjabi_munda_jass">
+<a href="https://www.instagram.com/punjabi_munda_jass" target="blank">
   <img align="left" alt="Jasmeet Singh | Instagram" width="21px" src="https://raw.githubusercontent.com/jasmeetsingh24/jasmeetsingh24/master/assets/instagram-round.svg" />
 </a>
-<a href="https://twitter.com/i_jasmeetsingh">
-  <img align="left" alt="Jasmeet Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/jasmeetsingh24/jasmeetsingh24/master/assets/twitter.svg" />
+<a href="https://twitter.com/i_jasmeetsingh" target="blank">
+  <img align="left" alt="Jasmeet Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
-<a href="https://discord.gg/q263hzj3jt">
-  <img align="left" alt="Jasmeet's Discord" width="21px" src="https://raw.githubusercontent.com/jasmeetsingh24/jasmeetsingh24/master/assets/discord-round.svg" />
+<a href="https://discord.gg/q263hzj3jt" target="blank">
+  <img align="left" alt="Jasmeet's Discord" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
 </a>
 
 <br />
