@@ -1,4 +1,5 @@
-### Hi there, I'm Jasmeet Singh 👋
+<h1 align="center">Hi there👋, I'm Jasmeet Singh</h1>
+<h3 align="center">A front end developer from India 🇮🇳</h3>
 
 </a>
 <a href="https://www.linkedin.com/in/jasmeet-singh-0856aa194" target="blank">
@@ -19,17 +20,11 @@
 
 <br />
 <br />
-<!--
-**jasmeetsingh24/jasmeetsingh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working as [Ninja Entrepreneur at Coding Ninjas](https://www.codingninjas.com/?referralCode=CDYZM)
+- 🌱 I’m currently learning C++/DS Algo
+- 💬 Ask me about **C++ , Front-end Development**
+- 📫 How to reach me: **jasmeetsingh2405@gmail.com**
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: **The first footprints on the moon will remain there for a million years.**
+
