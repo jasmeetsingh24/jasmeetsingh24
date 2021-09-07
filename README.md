@@ -14,7 +14,7 @@
   <img align="left" alt="Jasmeet Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://discord.gg/q263hzj3jt" target="blank">
-  <img align="left" alt="Jasmeet Singh | Discord" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
+  <img align="left" alt="Jasmeet Singh | Discord" width="21px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" />
 </a>
 
 <br />
