@@ -5,6 +5,11 @@
 <a href="https://www.linkedin.com/in/jasmeet-singh-0856aa194" target="_blank">
   <img align="left" alt="Jasmeet Singh | LinkedIn" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
+</a>
+<a href="https://www.quora.com/profile/Jasmeet-Singh-661" target="_blank">
+  <img align="left" alt="Jasmeet Singh | Quora" width="21px" src="https://w7.pngwing.com/pngs/547/373/png-transparent-quora-social-media-computer-icons-logo-social-networking-service-social-media.png" />
+</a>
+
 <a href="https://www.facebook.com/profile.php?id=100008863187804" target="_blank">
   <img align="left" alt="Jasmeet Singh | Facebook" width="21px" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" />
 </a>
