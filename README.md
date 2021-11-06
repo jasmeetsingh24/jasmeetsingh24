@@ -19,7 +19,7 @@
 <a href="https://twitter.com/i_jasmeetsingh" target="_blank">
   <img align="left" alt="Jasmeet Singh | Twitter" width="21px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
-<a href="https://discord.gg/q263hzj3jt" target="_blank">
+<a href="https://discord.gg/qtdAxypHY9" target="_blank">
   <img align="left" alt="Jasmeet Singh | Discord" width="21px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" />
 </a>
 
