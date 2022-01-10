@@ -16,11 +16,11 @@
 </a>
 </a>
 <a href="https://www.quora.com/profile/Jasmeet-Singh-661" target="_blank">
-  <img alt="Jasmeet Singh | Quora" src="https://www.iconpacks.net/icons/2/free-quora-logo-icon-2439-thumb.png" height="30" width="40" />
+  <img alt="Jasmeet Singh | Quora" src="https://www.iconpacks.net/icons/2/free-quora-logo-icon-2439-thumb.png" height="30" width="35" />
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100008863187804" target="_blank">
-  <img alt="Jasmeet Singh | Facebook" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" height="30" width="40" />
+  <img alt="Jasmeet Singh | Facebook" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" height="30" width="35" />
 </a>
 <a href="https://www.instagram.com/punjabi_munda_jass" target="_blank">
   <img alt="Jasmeet Singh | Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
@@ -29,7 +29,7 @@
   <img alt="Jasmeet Singh | Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 <a href="https://discord.gg/qtdAxypHY9" target="_blank">
-  <img alt="Jasmeet Singh | Discord" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Square-768x768.png" height="30" width="30" />
+  <img alt="Jasmeet Singh | Discord" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Square-768x768.png" height="30" width="35" />
 </a>
 </p>
 
