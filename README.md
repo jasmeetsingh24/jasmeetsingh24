@@ -10,7 +10,6 @@
 - ⚡ Fun fact: **The first footprints on the moon will remain there for a million years.**
 
 <h3 align="left">Connect with me:</h3>
-</a>
 <a href="https://www.linkedin.com/in/jasmeet-singh-0856aa194" target="_blank">
   <img align="left" alt="Jasmeet Singh | LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
