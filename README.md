@@ -8,8 +8,6 @@
 - 📫 How to reach me: **jasmeetsingh2405@gmail.com**
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: **The first footprints on the moon will remain there for a million years.**
-<br />
-<br />
 
 <h3 align="left">Connect with me:</h3>
 </a>
@@ -22,7 +20,7 @@
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100008863187804" target="_blank">
-  <img align="left" alt="Jasmeet Singh | Facebook" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" />
+  <img align="left" alt="Jasmeet Singh | Facebook" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/punjabi_munda_jass" target="_blank">
   <img align="left" alt="Jasmeet Singh | Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
