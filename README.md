@@ -29,7 +29,7 @@
   <img alt="Jasmeet Singh | Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 <a href="https://discord.gg/qtdAxypHY9" target="_blank">
-  <img alt="Jasmeet Singh | Discord" src="https://e7.pngegg.com/pngimages/888/805/png-clipart-discord-computer-icons-android-icons-combat-arena-android-game-smiley-thumbnail.png" height="30" width="40" />
+  <img alt="Jasmeet Singh | Discord" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Square-768x768.png" height="30" width="40" />
 </a>
 </p>
 
