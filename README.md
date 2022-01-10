@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100008863187804" target="_blank">
-  <img alt="Jasmeet Singh | Facebook" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png" height="30" width="35" />
+  <img alt="Jasmeet Singh | Facebook" src="https://i.pinimg.com/564x/63/a2/31/63a231592efca78f2bcbc02267eb37be.jpg" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/punjabi_munda_jass" target="_blank">
   <img alt="Jasmeet Singh | Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
