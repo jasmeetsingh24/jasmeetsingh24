@@ -16,7 +16,7 @@
 </a>
 </a>
 <a href="https://www.quora.com/profile/Jasmeet-Singh-661" target="_blank">
-  <img alt="Jasmeet Singh | Quora" src="https://www.iconpacks.net/icons/2/free-quora-logo-icon-2439-thumb.png" height="30" width="35" />
+  <img alt="Jasmeet Singh | Quora" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Quora_icon.svg/1200px-Quora_icon.svg.png" height="30" width="35" />
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100008863187804" target="_blank">
