@@ -40,7 +40,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmeetsingh24&show_icons=true&locale=en" alt="Jasmeet Singh" /></p>
 
-[![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/user/squjxnk2jrwdllx3b4xtsadtj)
+[![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/playlist/6IhnHNJd8RudDcPR8tnEC3)
 
 <details>
 <summary>📊 Github Stats</summary>
