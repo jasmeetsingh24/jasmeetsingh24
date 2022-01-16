@@ -63,10 +63,8 @@
 
 > Github Stats:
 
-| <img src="https://github-readme-stats.vercel.app/api?username=jasmeetsingh24&show_icons=true&theme=highcontrast"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmeetsingh24&layout=compact&title_color=FCF55F&text_color=fff&bg_color=000&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />|
+| <img src="https://github-readme-stats.vercel.app/api?username=jasmeetsingh24&show_icons=true&theme=highcontrast"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasmeetsingh24&layout=compact&title_color=FCF55F&text_color=fff&bg_color=000&langs_count=8&hide_border=false&hide=Ruby,Batchfile" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeetsingh24&" alt="jasmeetsingh24" />
 |---|---|
-
-<br><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeetsingh24&" alt="jasmeetsingh24" /></p>
 
 <br>
 
