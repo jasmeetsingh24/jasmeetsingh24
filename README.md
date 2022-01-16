@@ -9,7 +9,7 @@
 - 💬 Ask me about **C++ , Front-end Development**
 - 📫 How to reach me: **jasmeetsingh2405@gmail.com**
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: **The first footprints on the moon will remain there for a million years.**
+- ⚡ Fun fact: **I am a foodie 🍕🍔🍟🍨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,21 +52,6 @@
 
 <br><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeetsingh24&" alt="jasmeetsingh24" /></p>
 
-
 </details>
 
-
-
-
 [![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/user/squjxnk2jrwdllx3b4xtsadtj)
-
-
-<h3 align="left">Social Media Counter:</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/{jasmeetsingh24}/count.svg)
-
-[twitter]: https://twitter.com/i_jasmeetsingh
-[gmail]: jasmeetsingh2405@gmail.com
-[linkedin]: https://www.linkedin.com/in/jasmeet-singh24/
-[Medium]: https://medium.com/@jasmeetsingh24
-[Instagram]: https://www.instagram.com/punjabi_munda_jass
