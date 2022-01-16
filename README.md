@@ -48,9 +48,9 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jasmeetsingh24&show_icons=true&theme=gotham" alt="Jasmeet Singh | Stats" /> </p>
   
-<br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmeetsingh24&show_icons=true&locale=en&layout=compact" alt="jasmeetsingh24" /></p><br>
+<br><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmeetsingh24&show_icons=true&locale=en&layout=compact" alt="jasmeetsingh24" /></p><br>
 
-<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeetsingh24&" alt="jasmeetsingh24" /></p>
+<br><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeetsingh24&" alt="jasmeetsingh24" /></p>
 
 
 </details>
