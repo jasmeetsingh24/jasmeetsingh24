@@ -43,20 +43,23 @@
 <br><br>
 <br>
 
-<br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmeetsingh24&show_icons=true&locale=en&layout=compact" alt="jasmeetsingh24" /></p><br><br>
-
-<br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmeetsingh24&show_icons=true&locale=en" alt="jasmeetsingh24" /></p><br><br>
-
-<br><br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeetsingh24&" alt="jasmeetsingh24" /></p>
-
-[![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/user/squjxnk2jrwdllx3b4xtsadtj)
-
 <details>
 <summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jasmeetsingh24&show_icons=true&theme=gotham" alt="Jasmeet Singh | Stats" />
+  
+<br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasmeetsingh24&show_icons=true&locale=en&layout=compact" alt="jasmeetsingh24" /></p><br><br>
+
+<br><br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeetsingh24&" alt="jasmeetsingh24" /></p>
+
 
 </details>
+
+
+
+
+[![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/user/squjxnk2jrwdllx3b4xtsadtj)
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{jasmeetsingh24}/count.svg)
