@@ -52,5 +52,6 @@
 <br><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeetsingh24&" alt="jasmeetsingh24" /></p>
 
 </details>
+<br>
 
 [![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/user/squjxnk2jrwdllx3b4xtsadtj)
