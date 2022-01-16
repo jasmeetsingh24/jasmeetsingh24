@@ -61,7 +61,7 @@
 [![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/user/squjxnk2jrwdllx3b4xtsadtj)
 
 
-
+<h3 align="left">Social Media Counter:</h3>
 ![Visitor Count](https://profile-counter.glitch.me/{jasmeetsingh24}/count.svg)
 
 [twitter]: https://twitter.com/i_jasmeetsingh
