@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmeetsingh24" alt="Jasmeet Singh" /></a> </p>
 
-- 🔭 I’m currently working as [Ninja Entrepreneur at Coding Ninjas](https://www.codingninjas.com/?referralCode=CDYZM)
+- 🔭 I’m currently working as [Ninja Entrepreneur at Coding Ninjas]<a href = "https://www.codingninjas.com/?referralCode=CDYZM" target="_blank">
 - 🌱 I’m currently learning C++/DS Algo
 - 💬 Ask me about **C++ , Front-end Development**
 - 📫 How to reach me: **jasmeetsingh2405@gmail.com**
